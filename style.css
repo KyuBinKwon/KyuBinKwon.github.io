@@ -9,7 +9,7 @@ body,div {
 }
 
 /* Take note of how to apply a custom font, weight (thickness), and size! */
-p,h1,h2,h3,li {
+p,h1,h2,h3,h4,li {
 	font-family:"Raleway", sans-serif;
 	font-weight: 400;
 	font-size: 13px;
@@ -32,6 +32,10 @@ h2 {
 
 h3 {
 	line-height: 25px;
+}
+
+h4 {
+	line-height: 21px;
 }
 
 a:link {
